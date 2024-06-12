@@ -1,7 +1,6 @@
 # Credit Card Financial Dashboard
 
-![alt text](https://github.com/kakkar87/credit-card-financial-dashboard/edit/main/customer_report.jpg)
-
+![alt text](https://github.com/kakkar87/credit-card-financial-dashboard/blob/main/customer_report.jpg)
 
 ## Project Objective
 This project aims to design and implement a sophisticated weekly dashboard for credit card operations. This dashboard will provide real-time data analytics capabilities, offering stakeholders up-to-date insights into critical performance metrics and emerging trends. By providing a comprehensive view of the credit card portfolio, the dashboard will empower stakeholders to monitor Key Performance Indicators (KPIs), Operational Efficiency, Analyze Trends, and Strategic Decision Making.
@@ -12,9 +11,8 @@ Ultimately, this dashboard will serve as a vital tool for enhancing the overall 
 This repository contains two CSV files with detailed information on credit card transactions and credit card customers. These datasets can be used for a variety of analyses, including tracking transaction patterns, understanding customer demographics, and monitoring credit card operations.
 
 **Files Included**
-
-- Credit Card Transactions Data (credit_card_transactions.csv)
-- Credit Card Customer Data (credit_card_customers.csv)
+- Credit Card Transactions Data (credit_card.csv)
+- Credit Card Customer Data (customers.csv)
 
 **Credit Card Transactions Data**
 
@@ -60,3 +58,20 @@ This dataset provides details about the credit card customers. Each record inclu
 - Cust_Satisfaction_Score: Customer satisfaction score.
 
 These datasets can be used to analyze various aspects of credit card usage, customer demographics, transaction patterns, and more, providing valuable insights for monitoring and optimizing credit card operations.
+
+## Project Insights
+
+**WoW change:**
+- Revenue increased by 28.8%, 
+- Total Transaction Amt & Count increased by xx% & xx%
+- Customer count increased by xx%
+
+**Overview YTD:**
+- Overall revenue is 57M
+- Total interest is 8M
+- Total transaction amount is 46M
+- Male customers are contributing more in revenue 31M, females 26M
+- Blue & Silver credit cards are contributing to 93% of overall transactions
+- TX, NY & CA is contributing to 68%
+- Overall Activation rate is 57.5%
+- Overall Delinquent rate is 6.06%
