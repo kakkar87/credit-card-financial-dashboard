@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/kakkar87/credit-card-financial-dashboard/blob/main/customer_report.jpg)
 
+Link: https://app.powerbi.com/view?r=eyJrIjoiOTNhOWMwNWItZjdkMS00Mzk1LWJlYWItZTYzZGViMDEwYmQ1IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9&pageName=ReportSectionc00de6722549262464a9
+
 ## Project Objective
 This project aims to design and implement a sophisticated weekly dashboard for credit card operations. This dashboard will provide real-time data analytics capabilities, offering stakeholders up-to-date insights into critical performance metrics and emerging trends. By providing a comprehensive view of the credit card portfolio, the dashboard will empower stakeholders to monitor Key Performance Indicators (KPIs), Operational Efficiency, Analyze Trends, and Strategic Decision Making.
 
