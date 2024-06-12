@@ -7,7 +7,9 @@ Ultimately, this dashboard will serve as a vital tool for enhancing the overall 
 
 ## About Data
 Here's a brief description of the data in the provided CSV files:
+
 **Credit Card Transactions Data**
+
 This dataset contains information about individual credit card transactions. Each record includes the following fields:
 
 Client_Num: Unique identifier for the customer.
